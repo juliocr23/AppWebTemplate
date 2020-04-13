@@ -1,0 +1,91 @@
+
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+#top-container{
+  background-color: #5563A1;
+  color:white;
+}
+
+.nav-link{
+ text-transform: uppercase;
+ text-align: right;
+}
+
+
+.intro-text{
+font-family: Montserrat-Black;
+
+font-size: 3rem;
+line-height: 1.5;
+margin-bottom: 50px;
+}
+
+.iphone{
+  width: 250px;
+  height: 500px;
+}
+
+.intro-text {
+  padding-top: 10%;
+}
+
+#download{
+padding: 15% 15%;
+background-color: #fcf8f3;
+}
+
+#features{
+  padding: 15% 0%;
+  background-color: #5563A1;
+}
+
+.icon{
+  font-size: 3rem;
+  padding-top: 20%;
+  margin-bottom: 3rem;
+
+  color: white;
+}
+
+#contact{
+  padding: 15% 15%;
+}
+
+#copyright{
+  font-size: 12px;
+  padding: 2% 15%;
+  background-color: #222;
+  color: rgba(255,255,255,.3);
+}
+
+.list-inline{
+  padding-left: 0;
+ list-style: none;
+}
+
+.list-inline-item{
+line-height: 1.5;
+display: inline;
+}
+
+body{
+  text-align: center;
+}
+
+ .footer-link{
+   text-decoration: none;
+   color:rgba(255,255,255,.3);
+ }
+
+.footer-link:hover{
+  text-decoration: none;
+  color:#fff;
+}
+
+h1{
+margin-bottom: 25px;
+}
