@@ -48,7 +48,17 @@ background-color: #fcf8f3;
   padding-top: 20%;
   margin-bottom: 3rem;
 
+  color: #00a8cc;
+}
+
+
+.feature-title{
   color: white;
+}
+
+.feature-text{
+  color: #effcef;
+  font-family: Montserrat;
 }
 
 #contact{
