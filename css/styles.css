@@ -27,6 +27,17 @@ margin-bottom: 50px;
 .iphone{
   width: 250px;
   height: 500px;
+  position: relative;
+  z-index: 1;
+}
+
+.demo{
+position:absolute;
+width: 222px;
+height: 390px;
+top: 11%;
+left: 23%;
+z-index: 2;
 }
 
 .intro-text {
