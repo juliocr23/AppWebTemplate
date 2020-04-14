@@ -50,7 +50,7 @@ background-color: #fcf8f3;
 }
 
 #features{
-  padding: 15% 0%;
+  padding: 10% 0%;
   background-color: #5563A1;
 }
 
@@ -62,6 +62,10 @@ background-color: #fcf8f3;
   color: #00a8cc;
 }
 
+.title{
+  color: white;
+  padding-bottom: 10%;
+}
 
 .feature-title{
   color: white;
